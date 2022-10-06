@@ -59,7 +59,30 @@ output:<br/>
 ![5-9](https://user-images.githubusercontent.com/113499774/194348037-41ee02a3-358d-43da-90bf-ee2d05b9f8e9.jpg)
 10.<br/>
 ![5-10](https://user-images.githubusercontent.com/113499774/194348123-f5797808-75b3-4f4f-a937-d2ea035c6168.jpg)
-##experiment-6-SELECT WITH VARIOUS CLAUSE-BETWEEN,IN,AGGREGATE FUNCTION link-
+##experiment-6-SELECT WITH VARIOUS CLAUSE-BETWEEN,IN,AGGREGATE FUNCTION LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-6
+OUTPUT:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194350309-7e375b9e-7909-47df-b33c-b258868274b4.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194351656-77a2c886-62b7-486a-8c50-ab02bfa3c3ea.png)
+3.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194351871-cd1491b9-1ebd-4f14-9618-67bf0d34f903.png)
+4.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194351973-a3a927e9-af97-416d-aee8-621584ecd61c.png)
+5.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194352108-cb493b1f-ccf5-4eee-b414-2e08a63e43d0.png)
+6.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194352199-44dfe756-140c-4663-a1aa-e18718c1b2bd.png)
+7.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194352265-7b976686-c437-44e2-bb9e-bf752816b7d6.png)
+8.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194352470-3fd3441d-e996-47b9-ae9a-791d36e6f04f.png)
+9.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194352867-5fbbfea2-5931-4f8f-a1cc-ec00e41514b5.png)
+10.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194353014-26b512fd-6a21-42a7-b399-29cacf94528b.png)
+
+
 
 
 
