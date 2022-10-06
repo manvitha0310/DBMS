@@ -91,9 +91,17 @@ output:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194355058-d91b4746-058b-4378-8a92-8bafd935b45f.png)
 4.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194355170-98180f23-3be9-403b-95e6-ae7057fc708b.png)
-##Experiment-8-SUB QUERY & CORRELATED QUERY LINK-
+##Experiment-8-SUB QUERY & CORRELATED QUERY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-8
 output:<br/>
 1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194355905-a6ed0ee6-b7e3-458d-8f4f-f42d9cec0a9c.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194356001-65148fe5-b20e-45e7-9dd1-fb04608aac3e.png)
+3.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194356088-bd97916b-8815-4b4e-a785-23a12e7bffb4.png)
+4.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194356174-88ef733d-a118-40be-951f-4139e546b6e6.png)
+
 
 
 
