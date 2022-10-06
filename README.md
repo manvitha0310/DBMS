@@ -21,3 +21,5 @@ output:<br/>
 ![2 o-3](https://user-images.githubusercontent.com/113499774/194109885-984af75c-0b90-4ce5-a1e0-20987a5d2c58.png)
 4.<br/>
 ![2 o-4](https://user-images.githubusercontent.com/113499774/194109983-0893dd85-7917-41b2-8bb0-1f807fc3b210.png)
+
+##experiment-3&4-DDL COMMANDS-INSERT,DELETE,SELECT,UPDATE LINk-
