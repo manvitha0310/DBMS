@@ -40,25 +40,26 @@ output:<br/>
 ##experiment-5-SELECT WITH VARIOUS CLAUSE-WHERE,PATTERN MATCHING LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-5
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194244397-38b49706-6c3c-47e5-878e-a09268a3de7b.png)
+![5-1](https://user-images.githubusercontent.com/113499774/194347035-5c1da9ce-4643-4988-9861-043ac8a3c7c5.jpg)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194244559-bd4e21aa-4a2c-4575-a8f2-7257592f3656.png)
+![5-2](https://user-images.githubusercontent.com/113499774/194347307-35b9d182-2d2e-4977-8720-4ce22a49b718.jpg)
 3.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194244767-43b307bc-6009-404f-ad54-48a7585a5d3a.png)
+![5-3](https://user-images.githubusercontent.com/113499774/194347484-4d8102b3-9059-4d43-8c0a-5edd52c299e5.jpg)
 4.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194245103-2c797d23-49cc-4f4f-99ba-6b3451ee2a0f.png)
+![5-4](https://user-images.githubusercontent.com/113499774/194347571-85403a7c-2a80-463e-9df0-dd8ec2d72a42.jpg)
 5.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194245193-4337b2ad-8e9e-4d20-98db-5aa49218816e.png)
+![5-5](https://user-images.githubusercontent.com/113499774/194347651-df160891-4977-45b4-b2fe-7db1e7468819.jpg)
 6.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194246682-bacad759-5f67-4dbb-965b-f9932cb306c0.png)
+![5-6](https://user-images.githubusercontent.com/113499774/194347764-7c985bc4-b936-4cb1-8e8f-e7f3cd96f651.jpg)
 7.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194246758-e0439644-a7f1-4943-96bd-da46eabcca9f.png)
+![5-7](https://user-images.githubusercontent.com/113499774/194347862-e55b8d5d-2fab-49cb-8547-f4ce19631bb4.jpg)
 8.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194246854-65763162-2162-4809-ac0d-09b0a5e01021.png)
+![5-8](https://user-images.githubusercontent.com/113499774/194347941-a0f67dc3-53e5-48dc-9ba7-e183fb9a4980.jpg)
 9.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194246967-67ad77a5-a211-45f8-a963-16e4af5eca92.png)
+![5-9](https://user-images.githubusercontent.com/113499774/194348037-41ee02a3-358d-43da-90bf-ee2d05b9f8e9.jpg)
 10.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194247190-dd90bf2c-7181-48ce-9cca-7a38bc6343b1.png)
+![5-10](https://user-images.githubusercontent.com/113499774/194348123-f5797808-75b3-4f4f-a937-d2ea035c6168.jpg)
+
 
 
 
