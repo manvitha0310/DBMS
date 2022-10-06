@@ -105,6 +105,13 @@ output:<br/>
 output:<br/>
 1.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194358033-b935b05b-b553-4cbe-89c2-0a8810684b1a.png)
+##Experiment-11-SIMPLE PROGRAMMING EXERCISE USING(REPEAT,WHILE)LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-11
+ouput:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194359502-40e542ba-9d4e-4443-a819-54caf45ac8be.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194359600-9870464f-1f1b-4fbc-bf2a-5efe07818814.png)
+
 
 
 
