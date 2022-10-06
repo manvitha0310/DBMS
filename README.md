@@ -59,6 +59,7 @@ output:<br/>
 ![5-9](https://user-images.githubusercontent.com/113499774/194348037-41ee02a3-358d-43da-90bf-ee2d05b9f8e9.jpg)
 10.<br/>
 ![5-10](https://user-images.githubusercontent.com/113499774/194348123-f5797808-75b3-4f4f-a937-d2ea035c6168.jpg)
+
 ##experiment-6-SELECT WITH VARIOUS CLAUSE-BETWEEN,IN,AGGREGATE FUNCTION LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-6
 OUTPUT:<br/>
 1.<br/>
@@ -81,6 +82,7 @@ OUTPUT:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194352867-5fbbfea2-5931-4f8f-a1cc-ec00e41514b5.png)
 10.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194353014-26b512fd-6a21-42a7-b399-29cacf94528b.png)
+
 ##Experiment-7-SELECT WITH VARIOUS CLAUSE-GROUP BY,HAVING,ORDER BY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-7
 output:<br/>
 1.<br/>
@@ -91,6 +93,7 @@ output:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194355058-d91b4746-058b-4378-8a92-8bafd935b45f.png)
 4.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194355170-98180f23-3be9-403b-95e6-ae7057fc708b.png)
+
 ##Experiment-8-SUB QUERY & CORRELATED QUERY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-8
 output:<br/>
 1.<br/>
@@ -101,16 +104,19 @@ output:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194356088-bd97916b-8815-4b4e-a785-23a12e7bffb4.png)
 4.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194356174-88ef733d-a118-40be-951f-4139e546b6e6.png)
+
 ##Experiment-10-VIEW,INDEX,SEQUENCE LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-10
 output:<br/>
 1.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194358033-b935b05b-b553-4cbe-89c2-0a8810684b1a.png)
+
 ##Experiment-11-SIMPLE PROGRAMMING EXERCISE USING(REPEAT,WHILE)LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-11
 ouput:<br/>
 1.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194359502-40e542ba-9d4e-4443-a819-54caf45ac8be.png)
 2.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194359600-9870464f-1f1b-4fbc-bf2a-5efe07818814.png)
+
 ##Experiment-12-SIMPLE PROGRAMMING EXERCISE USING(CASE AND LOOP)LINK-https://github.com/manvitha0310/DBMS/blob/main/ExP-12
 output:<br/>
 1.<br/>
