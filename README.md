@@ -37,6 +37,38 @@ output:<br/>
 6.<br/>
 ![16](https://user-images.githubusercontent.com/113499774/194222424-5fa87ddc-212e-4090-84c7-5500832727ac.png)
 
-##experiment-5-SELECT WITH VARIOUS CLAUSE-WHERE,PATTERN MATCHING LINK-
+##experiment-5-SELECT WITH VARIOUS CLAUSE-WHERE,PATTERN MATCHING LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-5
+output:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194244397-38b49706-6c3c-47e5-878e-a09268a3de7b.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194244559-bd4e21aa-4a2c-4575-a8f2-7257592f3656.png)
+3.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194244767-43b307bc-6009-404f-ad54-48a7585a5d3a.png)
+4.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194245103-2c797d23-49cc-4f4f-99ba-6b3451ee2a0f.png)
+5.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194245193-4337b2ad-8e9e-4d20-98db-5aa49218816e.png)
+6.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194246682-bacad759-5f67-4dbb-965b-f9932cb306c0.png)
+7.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194246758-e0439644-a7f1-4943-96bd-da46eabcca9f.png)
+8.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194246854-65763162-2162-4809-ac0d-09b0a5e01021.png)
+9.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194246967-67ad77a5-a211-45f8-a963-16e4af5eca92.png)
+10.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194247190-dd90bf2c-7181-48ce-9cca-7a38bc6343b1.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
