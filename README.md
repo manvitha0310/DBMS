@@ -81,6 +81,7 @@ OUTPUT:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194352867-5fbbfea2-5931-4f8f-a1cc-ec00e41514b5.png)
 10.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194353014-26b512fd-6a21-42a7-b399-29cacf94528b.png)
+##Experiment-7-SELECT WITH VARIOUS CLAUSE-GROUP BY,HAVING,ORDER BY LINK-
 
 
 
