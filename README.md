@@ -111,7 +111,7 @@ ouput:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194359502-40e542ba-9d4e-4443-a819-54caf45ac8be.png)
 2.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194359600-9870464f-1f1b-4fbc-bf2a-5efe07818814.png)
-
+##Experiment-12-SIMPLE PROGRAMMING EXERCISE USING(CASE AND LOOP)LINK-
 
 
 
