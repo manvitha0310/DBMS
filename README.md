@@ -37,5 +37,6 @@ output:<br/>
 6.<br/>
 ![16](https://user-images.githubusercontent.com/113499774/194222424-5fa87ddc-212e-4090-84c7-5500832727ac.png)
 
+##experiment-5-SELECT WITH VARIOUS CLAUSE-WHERE,PATTERN MATCHING LINK-
 
 
