@@ -81,8 +81,19 @@ OUTPUT:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194352867-5fbbfea2-5931-4f8f-a1cc-ec00e41514b5.png)
 10.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194353014-26b512fd-6a21-42a7-b399-29cacf94528b.png)
-##Experiment-7-SELECT WITH VARIOUS CLAUSE-GROUP BY,HAVING,ORDER BY LINK-
-
+##Experiment-7-SELECT WITH VARIOUS CLAUSE-GROUP BY,HAVING,ORDER BY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-7
+output:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194354865-3389a56d-0e45-4615-a59c-ded2cc430244.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194354965-08e26e82-b17d-4a6d-b1ff-a375c5e0b15e.png)
+3.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194355058-d91b4746-058b-4378-8a92-8bafd935b45f.png)
+4.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194355170-98180f23-3be9-403b-95e6-ae7057fc708b.png)
+##Experiment-8-SUB QUERY & CORRELATED QUERY LINK-
+output:<br/>
+1.<br/>
 
 
 
