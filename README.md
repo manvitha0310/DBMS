@@ -101,6 +101,10 @@ output:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194356088-bd97916b-8815-4b4e-a785-23a12e7bffb4.png)
 4.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194356174-88ef733d-a118-40be-951f-4139e546b6e6.png)
+##Experiment-10-VIEW,INDEX,SEQUENCE LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-10
+output:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194358033-b935b05b-b553-4cbe-89c2-0a8810684b1a.png)
 
 
 
