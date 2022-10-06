@@ -59,7 +59,7 @@ output:<br/>
 ![5-9](https://user-images.githubusercontent.com/113499774/194348037-41ee02a3-358d-43da-90bf-ee2d05b9f8e9.jpg)
 10.<br/>
 ![5-10](https://user-images.githubusercontent.com/113499774/194348123-f5797808-75b3-4f4f-a937-d2ea035c6168.jpg)
-
+##experiment-6-SELECT WITH VARIOUS CLAUSE-BETWEEN,IN,AGGREGATE FUNCTION link-
 
 
 
