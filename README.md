@@ -33,7 +33,9 @@ output:<br/>
 4.<br/>
 ![13](https://user-images.githubusercontent.com/113499774/194219658-dde352c5-4fd0-4f36-8ee4-0d4243478ea9.png)
 5.<br/>
-![Uploading 15.png…]()
+![15](https://user-images.githubusercontent.com/113499774/194222394-60429a3f-b596-4e5e-9619-9caafbca9792.png)
 6.<br/>
+![16](https://user-images.githubusercontent.com/113499774/194222424-5fa87ddc-212e-4090-84c7-5500832727ac.png)
+
 
 
