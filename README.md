@@ -22,4 +22,18 @@ output:<br/>
 4.<br/>
 ![2 o-4](https://user-images.githubusercontent.com/113499774/194109983-0893dd85-7917-41b2-8bb0-1f807fc3b210.png)
 
-##experiment-3&4-DDL COMMANDS-INSERT,DELETE,SELECT,UPDATE LINk-
+##experiment-3&4-DDL COMMANDS-INSERT,DELETE,SELECT,UPDATE LINk-https://github.com/manvitha0310/DBMS/blob/main/EXP-3%264
+output:<br/>
+1.<br/>
+![10](https://user-images.githubusercontent.com/113499774/194219520-01573082-0f30-406c-80d1-0aa9f9f4ab61.png)
+2.<br/>
+![11](https://user-images.githubusercontent.com/113499774/194219592-f63063a7-845c-4f40-9e82-ce2b1986e2de.png)
+3.<br/>
+![12](https://user-images.githubusercontent.com/113499774/194219617-1442f3cb-b865-41b9-a421-3555559fe489.png)
+4.<br/>
+![13](https://user-images.githubusercontent.com/113499774/194219658-dde352c5-4fd0-4f36-8ee4-0d4243478ea9.png)
+5.<br/>
+![Uploading 15.png…]()
+6.<br/>
+
+
