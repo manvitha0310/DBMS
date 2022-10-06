@@ -111,7 +111,13 @@ ouput:<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194359502-40e542ba-9d4e-4443-a819-54caf45ac8be.png)
 2.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194359600-9870464f-1f1b-4fbc-bf2a-5efe07818814.png)
-##Experiment-12-SIMPLE PROGRAMMING EXERCISE USING(CASE AND LOOP)LINK-
+##Experiment-12-SIMPLE PROGRAMMING EXERCISE USING(CASE AND LOOP)LINK-https://github.com/manvitha0310/DBMS/blob/main/ExP-12
+output:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194360982-a6858de5-3e7e-403a-8a06-7cc76c9a546c.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194361078-127ea950-c954-4a3f-b9c4-74d9f612f21b.png)
+
 
 
 
