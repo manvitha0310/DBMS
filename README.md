@@ -105,6 +105,13 @@ output:<br/>
 4.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194356174-88ef733d-a118-40be-951f-4139e546b6e6.png)
 
+##Experiment-9-JOINS LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-9
+output:<br/>
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194700408-e04ef90b-0b23-4b8a-af4e-dbc3e2141772.png)
+2.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194700459-08ac8cd5-af05-42f0-b900-1708103a584c.png)
+
 ##Experiment-10-VIEW,INDEX,SEQUENCE LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-10
 output:<br/>
 1.<br/>
