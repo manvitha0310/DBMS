@@ -129,7 +129,11 @@ output:<br/>
 1.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194699450-d2d2db91-758d-486f-8df6-faa284ee1624.png)
 
-##Experiment-14-DCL COMMANDS LINK-
+##Experiment-14-DCL COMMANDS LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-14
+output:<br/>
+1.<br/>
+![Screenshot (402)](https://user-images.githubusercontent.com/113499774/194699609-07ed6827-2796-46b4-bb3b-4ab3a9dac209.png)
+
 
 
 
