@@ -126,7 +126,10 @@ output:<br/>
 
 ##Experiment-13-TCL COMMANDS LINK-https://github.com/manvitha0310/DBMS/blob/main/Exp-13
 output:<br/>
-1.
+1.<br/>
+![image](https://user-images.githubusercontent.com/113499774/194699450-d2d2db91-758d-486f-8df6-faa284ee1624.png)
+
+##Experiment-14-DCL COMMANDS LINK-
 
 
 
