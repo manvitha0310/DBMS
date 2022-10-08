@@ -124,7 +124,9 @@ output:<br/>
 2.<br/>
 ![image](https://user-images.githubusercontent.com/113499774/194361078-127ea950-c954-4a3f-b9c4-74d9f612f21b.png)
 
-##Experiment-13-TCL COMMANDS LINK-
+##Experiment-13-TCL COMMANDS LINK-https://github.com/manvitha0310/DBMS/blob/main/Exp-13
+output:<br/>
+1.
 
 
 
