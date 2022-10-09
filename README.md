@@ -4,24 +4,24 @@ output:<br/>
 1.<br/>
 ![1-1](https://user-images.githubusercontent.com/113499774/194109024-0c83c8dc-b5c5-4181-a296-86882ae6c1c1.png)
 2.<br/>
-![1 output-2](https://user-images.githubusercontent.com/113499774/194109121-0f75713e-cbc7-43a3-9824-24f85ad3f1f1.png)
+![1-2](https://user-images.githubusercontent.com/113499774/194109121-0f75713e-cbc7-43a3-9824-24f85ad3f1f1.png)
 3.<br/>
-![1 output-3](https://user-images.githubusercontent.com/113499774/194754015-26720154-c459-4e84-bfb0-d24822737762.png)
+![1-3](https://user-images.githubusercontent.com/113499774/194754015-26720154-c459-4e84-bfb0-d24822737762.png)
 4.<br/>
-![1 output 4](https://user-images.githubusercontent.com/113499774/194109266-aae715ac-81a1-4c3e-84a0-b77e6395b975.png)
+![1-4](https://user-images.githubusercontent.com/113499774/194109266-aae715ac-81a1-4c3e-84a0-b77e6395b975.png)
 5.<br/>
-![1 output-5](https://user-images.githubusercontent.com/113499774/194109312-262c5135-fb2e-482b-b9bc-13b34f3c10c5.png)
+![1-5](https://user-images.githubusercontent.com/113499774/194109312-262c5135-fb2e-482b-b9bc-13b34f3c10c5.png)
 
 ##experiment-2 DDL COMMANDS WITH CONSTRAINTS link-https://github.com/manvitha0310/DBMS/blob/main/exp-2
 output:<br/>
 1.<br/>
-![2 o-1](https://user-images.githubusercontent.com/113499774/194109781-7f75ca4d-8a15-475e-a1ff-28cc6b5704fe.png)
+![2-1](https://user-images.githubusercontent.com/113499774/194109781-7f75ca4d-8a15-475e-a1ff-28cc6b5704fe.png)
 2.<br/>
-![2 0-2](https://user-images.githubusercontent.com/113499774/194109826-4bc31860-b7ff-4f69-b8d6-0b157459fdcd.png)
+![2-2](https://user-images.githubusercontent.com/113499774/194109826-4bc31860-b7ff-4f69-b8d6-0b157459fdcd.png)
 3.<br/>
-![2 o-3](https://user-images.githubusercontent.com/113499774/194109885-984af75c-0b90-4ce5-a1e0-20987a5d2c58.png)
+![2-3](https://user-images.githubusercontent.com/113499774/194109885-984af75c-0b90-4ce5-a1e0-20987a5d2c58.png)
 4.<br/>
-![2 o-4](https://user-images.githubusercontent.com/113499774/194109983-0893dd85-7917-41b2-8bb0-1f807fc3b210.png)
+![2-4](https://user-images.githubusercontent.com/113499774/194109983-0893dd85-7917-41b2-8bb0-1f807fc3b210.png)
 
 ##experiment-3&4-DDL COMMANDS-INSERT,DELETE,SELECT,UPDATE LINk-https://github.com/manvitha0310/DBMS/blob/main/EXP-3%264
 output:<br/>
@@ -164,6 +164,64 @@ output:<br/>
 ##Experiment-18-TRIGGER LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-18
 output:<br/>
 1.<br/>
+![18](https://user-images.githubusercontent.com/113499774/194754565-c3f5e3fa-3565-4daa-92cf-0a4a5439fa45.png)
+
+##Experiment-19-DATABASE CONNECTIVITY-USING JAVA & MYSQL LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-19
+output:<br/>
+1.<br/>
+![19-1](https://user-images.githubusercontent.com/113499774/194754701-720a6217-4db4-47e5-86ee-ec459fa81899.png)
+2.<br/>
+![19-2](https://user-images.githubusercontent.com/113499774/194754719-2ba31c47-e5ae-494e-8d52-77a9fbffe93a.png)
+
+##Experiment-20-DATABASE CONNECTIVITY – USING PHP & MYSQL LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-20
+output:<br/>
+1.<br/>
+![20-1](https://user-images.githubusercontent.com/113499774/194754968-e993c761-9eba-4ce1-bd1e-ca12c8fc39a0.png)
+2.<br/>
+![20-2](https://user-images.githubusercontent.com/113499774/194754982-79c8daa4-df20-42b4-b0c3-f172a8200c4b.png)
+
+##Experiment-21-ADVANCED SQL QUERIES IMPLEMENTATION FOR HRM DATABASE-LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-21
+outpu:<br/>
+1.<br/>
+![21-1](https://user-images.githubusercontent.com/113499774/194755105-87b82bcd-0ee4-4053-ab3c-44e7194690ea.png)
+2.<br/>
+![21-2](https://user-images.githubusercontent.com/113499774/194755132-917a4fcd-f6a6-4305-ab41-5b0af8d241b2.png)
+3.<br/>
+![21-3](https://user-images.githubusercontent.com/113499774/194755147-006454e1-3422-4425-a40b-548030eb7e58.png)
+
+##Experiment-22-IMPLEMENTATION FOR BOOK PUBLISHING COMPANY-LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-22
+output:<br/>
+1.<br/>
+![22](https://user-images.githubusercontent.com/113499774/194755230-2383a7ab-ed7a-4fa5-966e-032d2d99c6bb.png)
+
+##Experiment-23-IMPLEMENTATION FOR GENERAL HOSPITAL LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-23
+output:<br/>
+1.<br/>
+![23-1](https://user-images.githubusercontent.com/113499774/194755282-e6491195-e489-4583-93b9-9121f86d59e9.png)
+2.<br/>
+![23-2](https://user-images.githubusercontent.com/113499774/194755298-3ef9d6fd-1630-4cdb-bd8c-31aecf12284c.png)
+
+##Experiment-24-IMPLEMENTATION FOR CAR RENTAL COMPANY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-24
+output:<br/>
+1.<br/>
+![24-1](https://user-images.githubusercontent.com/113499774/194755362-48f7cf38-b798-423f-96d3-d66ec5a4d0b0.png)
+2.<br/>
+![24-2](https://user-images.githubusercontent.com/113499774/194755392-4ef5c7a6-38a1-4244-907a-db87a358fcc8.png)
+
+##Experiment-25-IMPLEMENTATION FOR STUDENT PROGRESS MONITORING SYSTEM LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-25
+output:<br/>
+1.<br/>
+![25-1](https://user-images.githubusercontent.com/113499774/194755458-6970833e-8eae-4c0c-a960-e57ac80e7ef8.png)
+2.<br/>
+![25-2](https://user-images.githubusercontent.com/113499774/194755482-5d121d85-2784-4aa0-96f0-e20f713b4beb.png)
+3.<br/>
+![25-3](https://user-images.githubusercontent.com/113499774/194755497-b5a05461-3d95-42fc-b213-cb13855dcee3.png)
+
+
+
+
+
+
 
 
 
