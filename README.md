@@ -6,6 +6,7 @@ output:<br/>
 2.<br/>
 ![1 output-2](https://user-images.githubusercontent.com/113499774/194109121-0f75713e-cbc7-43a3-9824-24f85ad3f1f1.png)
 3.<br/>
+![1 output-3](https://user-images.githubusercontent.com/113499774/194754015-26720154-c459-4e84-bfb0-d24822737762.png)
 4.<br/>
 ![1 output 4](https://user-images.githubusercontent.com/113499774/194109266-aae715ac-81a1-4c3e-84a0-b77e6395b975.png)
 5.<br/>
@@ -63,90 +64,90 @@ output:<br/>
 ##experiment-6-SELECT WITH VARIOUS CLAUSE-BETWEEN,IN,AGGREGATE FUNCTION LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-6
 OUTPUT:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194350309-7e375b9e-7909-47df-b33c-b258868274b4.png)
+![6-1](https://user-images.githubusercontent.com/113499774/194350309-7e375b9e-7909-47df-b33c-b258868274b4.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194351656-77a2c886-62b7-486a-8c50-ab02bfa3c3ea.png)
+![6-2](https://user-images.githubusercontent.com/113499774/194351656-77a2c886-62b7-486a-8c50-ab02bfa3c3ea.png)
 3.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194351871-cd1491b9-1ebd-4f14-9618-67bf0d34f903.png)
+![6-3](https://user-images.githubusercontent.com/113499774/194351871-cd1491b9-1ebd-4f14-9618-67bf0d34f903.png)
 4.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194351973-a3a927e9-af97-416d-aee8-621584ecd61c.png)
+![6-4](https://user-images.githubusercontent.com/113499774/194351973-a3a927e9-af97-416d-aee8-621584ecd61c.png)
 5.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194352108-cb493b1f-ccf5-4eee-b414-2e08a63e43d0.png)
+![6-5](https://user-images.githubusercontent.com/113499774/194352108-cb493b1f-ccf5-4eee-b414-2e08a63e43d0.png)
 6.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194352199-44dfe756-140c-4663-a1aa-e18718c1b2bd.png)
+![6-6](https://user-images.githubusercontent.com/113499774/194352199-44dfe756-140c-4663-a1aa-e18718c1b2bd.png)
 7.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194352265-7b976686-c437-44e2-bb9e-bf752816b7d6.png)
+![6-7](https://user-images.githubusercontent.com/113499774/194352265-7b976686-c437-44e2-bb9e-bf752816b7d6.png)
 8.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194352470-3fd3441d-e996-47b9-ae9a-791d36e6f04f.png)
+![6-8](https://user-images.githubusercontent.com/113499774/194352470-3fd3441d-e996-47b9-ae9a-791d36e6f04f.png)
 9.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194352867-5fbbfea2-5931-4f8f-a1cc-ec00e41514b5.png)
+![6-9](https://user-images.githubusercontent.com/113499774/194352867-5fbbfea2-5931-4f8f-a1cc-ec00e41514b5.png)
 10.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194353014-26b512fd-6a21-42a7-b399-29cacf94528b.png)
+![6-10](https://user-images.githubusercontent.com/113499774/194353014-26b512fd-6a21-42a7-b399-29cacf94528b.png)
 
 ##Experiment-7-SELECT WITH VARIOUS CLAUSE-GROUP BY,HAVING,ORDER BY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-7
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194354865-3389a56d-0e45-4615-a59c-ded2cc430244.png)
+![7-1](https://user-images.githubusercontent.com/113499774/194354865-3389a56d-0e45-4615-a59c-ded2cc430244.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194354965-08e26e82-b17d-4a6d-b1ff-a375c5e0b15e.png)
+![7-2](https://user-images.githubusercontent.com/113499774/194354965-08e26e82-b17d-4a6d-b1ff-a375c5e0b15e.png)
 3.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194355058-d91b4746-058b-4378-8a92-8bafd935b45f.png)
+![7-3](https://user-images.githubusercontent.com/113499774/194355058-d91b4746-058b-4378-8a92-8bafd935b45f.png)
 4.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194355170-98180f23-3be9-403b-95e6-ae7057fc708b.png)
+![7-4](https://user-images.githubusercontent.com/113499774/194355170-98180f23-3be9-403b-95e6-ae7057fc708b.png)
 
 ##Experiment-8-SUB QUERY & CORRELATED QUERY LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-8
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194355905-a6ed0ee6-b7e3-458d-8f4f-f42d9cec0a9c.png)
+![8-1](https://user-images.githubusercontent.com/113499774/194355905-a6ed0ee6-b7e3-458d-8f4f-f42d9cec0a9c.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194356001-65148fe5-b20e-45e7-9dd1-fb04608aac3e.png)
+![8-2](https://user-images.githubusercontent.com/113499774/194356001-65148fe5-b20e-45e7-9dd1-fb04608aac3e.png)
 3.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194356088-bd97916b-8815-4b4e-a785-23a12e7bffb4.png)
+![8-3](https://user-images.githubusercontent.com/113499774/194356088-bd97916b-8815-4b4e-a785-23a12e7bffb4.png)
 4.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194356174-88ef733d-a118-40be-951f-4139e546b6e6.png)
+![8-4](https://user-images.githubusercontent.com/113499774/194356174-88ef733d-a118-40be-951f-4139e546b6e6.png)
 
 ##Experiment-9-JOINS LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-9
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194700408-e04ef90b-0b23-4b8a-af4e-dbc3e2141772.png)
+![9-1](https://user-images.githubusercontent.com/113499774/194700408-e04ef90b-0b23-4b8a-af4e-dbc3e2141772.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194700459-08ac8cd5-af05-42f0-b900-1708103a584c.png)
+![9-2](https://user-images.githubusercontent.com/113499774/194700459-08ac8cd5-af05-42f0-b900-1708103a584c.png)
 
 ##Experiment-10-VIEW,INDEX,SEQUENCE LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-10
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194358033-b935b05b-b553-4cbe-89c2-0a8810684b1a.png)
+![10](https://user-images.githubusercontent.com/113499774/194358033-b935b05b-b553-4cbe-89c2-0a8810684b1a.png)
 
 ##Experiment-11-SIMPLE PROGRAMMING EXERCISE USING(REPEAT,WHILE)LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-11
 ouput:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194359502-40e542ba-9d4e-4443-a819-54caf45ac8be.png)
+![11-1](https://user-images.githubusercontent.com/113499774/194359502-40e542ba-9d4e-4443-a819-54caf45ac8be.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194359600-9870464f-1f1b-4fbc-bf2a-5efe07818814.png)
+![11-2](https://user-images.githubusercontent.com/113499774/194359600-9870464f-1f1b-4fbc-bf2a-5efe07818814.png)
 
 ##Experiment-12-SIMPLE PROGRAMMING EXERCISE USING(CASE AND LOOP)LINK-https://github.com/manvitha0310/DBMS/blob/main/ExP-12
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194360982-a6858de5-3e7e-403a-8a06-7cc76c9a546c.png)
+![12-1](https://user-images.githubusercontent.com/113499774/194360982-a6858de5-3e7e-403a-8a06-7cc76c9a546c.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194361078-127ea950-c954-4a3f-b9c4-74d9f612f21b.png)
+![12-2](https://user-images.githubusercontent.com/113499774/194361078-127ea950-c954-4a3f-b9c4-74d9f612f21b.png)
 
 ##Experiment-13-TCL COMMANDS LINK-https://github.com/manvitha0310/DBMS/blob/main/Exp-13
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194699450-d2d2db91-758d-486f-8df6-faa284ee1624.png)
+![13](https://user-images.githubusercontent.com/113499774/194699450-d2d2db91-758d-486f-8df6-faa284ee1624.png)
 
 ##Experiment-14-DCL COMMANDS LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-14
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194699881-1badbb33-2ba7-4a29-8cb0-1743ad8640d8.png)
+![14](https://user-images.githubusercontent.com/113499774/194699881-1badbb33-2ba7-4a29-8cb0-1743ad8640d8.png)
 
 ##Experiment-15-HIGH LEVEL PROGRAMMING EXTENSIONS(PROCEDUCRES)-LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-15
 output:<br/>
 1.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194700156-bfa9d853-904a-457d-afda-3f880adf62b1.png)
+![15-1](https://user-images.githubusercontent.com/113499774/194700156-bfa9d853-904a-457d-afda-3f880adf62b1.png)
 2.<br/>
-![image](https://user-images.githubusercontent.com/113499774/194700172-90e18c2e-dd45-4664-b39b-454c13a7cb4b.png)
+![15-2](https://user-images.githubusercontent.com/113499774/194700172-90e18c2e-dd45-4664-b39b-454c13a7cb4b.png)
 
 ##Experiment-16-HIGH LEVEL PROGRAMMING EXTENSIONS(FUNCTIONS) LINk-https://github.com/manvitha0310/DBMS/blob/main/EXP-16
 output:<br/>
@@ -155,7 +156,15 @@ output:<br/>
 2.<br/>
 ![16-2](https://user-images.githubusercontent.com/113499774/194753558-aeb67c55-848c-46f4-8b7f-d1429ed0df0a.png)
 
-##Experiment-17-HIGH LEVEL LANGUAGE EXTENSIONS WITH CURSORS LINK-
+##Experiment-17-HIGH LEVEL LANGUAGE EXTENSIONS WITH CURSORS LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-17
+output:<br/>
+1.<br/>
+![17](https://user-images.githubusercontent.com/113499774/194753717-618dd297-1f45-487b-9d67-40357457f654.png)
+
+##Experiment-18-TRIGGER LINK-https://github.com/manvitha0310/DBMS/blob/main/EXP-18
+output:<br/>
+1.<br/>
+
 
 
 
